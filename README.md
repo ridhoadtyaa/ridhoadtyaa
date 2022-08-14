@@ -9,6 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhoadtyaa&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoadtyaa" /> </p>
 
+<p align="center">Frontend enthusiast, interested in machine learning✨</p>
+
 <hr />
  
 <details>
